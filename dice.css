@@ -1,0 +1,50 @@
+.new{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.new1{
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+body{
+    background-color: gray;
+    margin: 0px;
+}
+h1{
+    margin: 25px 25px 0px 25px;
+    font-family: copperplate, cursive;
+    text-shadow: 5px 0 lightgoldenrodyellow;
+    font-size: 5rem;
+    color: brown;
+    text-align: center;
+}
+p{
+    font-size: 3rem;
+    font-family: copperplate;
+    color: black;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.bottom{
+    padding-top: 10px;
+}
+.new2{
+    background-color: lightcoral;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 7 px;
+    color: black;
+    font-size: 30px;
+    padding: 16px 25px;
+    text-decoration: none;
+}
+.new2:hover{
+    background: darksalmon;
+    text-decoration: none;
+}
